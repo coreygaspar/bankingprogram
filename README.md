@@ -1,1 +1,2 @@
-# bankingprogram
+# Banking Program
+A banking program built in C++ that calculates balance and interest with and without additional monthly deposits. The program prints a menu that asks the user to enter the initial investment amount, the monthly deposit, the annual interest, and the number of years. The user can then press any key to continue. The program then prints out two tables based on the user input. The first table shows the balance and interest with monthly deposits and the other table shows balance and interest without monthly deposits. The user is then prompted to choose whether or not they would like to try again with different values. If they choose yes, the program starts from the beginning and will end if the user chooses no.
