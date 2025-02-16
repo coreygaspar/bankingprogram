@@ -1,2 +1,5 @@
-# Banking Program
-A banking program built in C++ that calculates balance and interest with and without additional monthly deposits. The program prints a menu that asks the user to enter the initial investment amount, the monthly deposit, the annual interest, and the number of years. The user can then press any key to continue. The program then prints out two tables based on the user input. The first table shows the balance and interest with monthly deposits and the other table shows balance and interest without monthly deposits. The user is then prompted to choose whether or not they would like to try again with different values. If they choose yes, the program starts from the beginning and will end if the user chooses no.
+# Airgead Banking Program
+
+**Summarize the project and what problem it was solving.**
+---
+The Airgead Banking Program is a tool used to calculate investment growth over a set number of years, both with and without monthly deposits. The purpose of this program is to show the user the importance of compound interest and monthly contributions. Most people, especially younger people, don't understand the concept of compound interest and struggle to understand the importance of saving money over time. This program gives people a visualization on how important it is to save money.
