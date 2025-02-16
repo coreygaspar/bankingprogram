@@ -25,4 +25,6 @@ The most challenging part of this project, to me, was formatting the output tabl
 ---
 I believe that the use of Object-Oriented Programming will be transferable to other projects or coursework. For example, I used main.cpp for managing the user interactions while I had BankingApp.h and BankingApp.cpp handle all of the calculations. I also feel that the skill of writing maintainable code through the use of descriptive comments will also be transferable. I wrote as many descriptive comments as I could throughout the program so that in the future, if I decide to come back to this project and make improvements, I will know what code does what.
 
-
+**How did you make this program maintainable, readable, and adaptable?**
+---
+As I have stated before, I wrote many descriptive comments throughout the program as a reference for me in the future in case I decide to fix things or make any updates. I also tried to use clear variable names for better readability. This will also be useful for me in the future because I will know what each variable is used for.
