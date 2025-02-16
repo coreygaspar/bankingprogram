@@ -11,3 +11,10 @@ I think that I did particularly well with the calculations. I implemented compou
 **Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?**
 ---
 For starters, I should have created a limit for interest rate. I should have set a limit for the interest rate to be no greater than 100% but it can exceed that. I could even make that number even smaller if I was trying to be realistic. My code also allows users to enter high deposit values, which could cause some overflow issues. 
+
+**Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?**
+---
+The most challenging part of this project, to me, was formatting the output tables. I was running into alignment issues with the calculated values and there were big spaces between the dollar signs and the actual values. To fix this issue from occuring everytime I right-aligned my values, I used setw() and ostringstream. I also struggled with understanding how monthly interest is applied. To overcome this, I broke down each formula into smaller pieces and tested with smaller values. I also decided that it would be best to add as many detailed comments to my code to avoid confusion.
+
+****
+---
