@@ -16,5 +16,6 @@ For starters, I should have created a limit for interest rate. I should have set
 ---
 The most challenging part of this project, to me, was formatting the output tables. I was running into alignment issues with the calculated values and there were big spaces between the dollar signs and the actual values. To fix this issue from occuring everytime I right-aligned my values, I used setw() and ostringstream. I also struggled with understanding how monthly interest is applied. To overcome this, I broke down each formula into smaller pieces and tested with smaller values. I also decided that it would be best to add as many detailed comments to my code to avoid confusion.
 
-****
+**What skills from this project will be particularly transferable to other projects or course work?**
 ---
+I believe that the use of Object-Oriented Programming will be transferable to other projects or coursework. For example, I used main.cpp for managing the user interactions while I had BankingProgram.h and BankingProgram.cpp 
